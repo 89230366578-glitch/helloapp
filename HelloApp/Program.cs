@@ -8,8 +8,8 @@ class Programcscs
         Console.WriteLine("hello everyone");
     }
 
-    public static void GreetWhite()
+    public static void GreetBlack()
     {
-        Console.WriteLine("hello white");
+        Console.WriteLine("hello black");
     }
 }
